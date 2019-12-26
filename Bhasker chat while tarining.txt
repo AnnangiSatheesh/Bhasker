@@ -1,0 +1,125 @@
+
+https://github.com/bhasker-manikyala/DevOpsClassCodes
+https://github.com/bhasker-manikyala/DevOpsClassCodes.git
+https://www.edureka.co/blog/jenkins-pipeline-tutorial-continuous-delivery
+https://docs.docker.com/install/linux/docker-ce/centos/
+
+
+
+Puppet Master Server 
+
+1. Package: puppetserver, puppet-agent
+
+2. Config File: /etc/puppetlabs/puppet/puppet.conf
+
+3. Service: puppetserver
+
+4. Port No: 8140
+
+
+
+Audience Question
+
+Q: Good evening Bhasker
+
+A: Any queries or concerns, please let me know i'm available
+
+
+
+Audience Question
+
+Q: i cant hear anythin at all 
+
+A: Could you please reconnect
+
+
+
+Q: Good Evening Bhasker
+
+
+
+Audience Question
+
+Q: yeah i lost my username also
+
+A: https://www.lazysystemadmin.com/2018/12/quick-howto-reset-jenkins-admin-password.html
+
+
+
+Audience Question
+
+Q: you didnot get my question
+
+A: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+
+
+
+Puppet Agent Server
+
+1. Package: puppet-agent
+
+2. Config File: /etc/puppetlabs/puppet/puppet.conf
+
+3. Service: puppet
+
+
+is there any major differece between linux installation & windows installation for puppet.
+
+A: https://puppet.com/docs
+
+
+Audience Question
+
+Q: Sorry for my ignorance.. is it madetory to name the package "Seleniu,"
+
+A: https://selenium.dev/downloads/
+
+
+Audience Question
+
+Q: so Selenium comes into picture only with Integration testing or System Integration testing right?
+
+A: https://github.com/bhasker-manikyala/sel
+
+
+promothesis 
+
+A: https://kubernetes.io/docs/tasks/administer-cluster/highly-available-master/
+
+
+
+Audience Question
+
+Q: ys
+
+A: http://dockerlabs.collabnix.com/kubernetes/beginners/Install-and-configure-a-multi-master-Kubernetes-cluster-with-kubeadm.html
+
+
+Audience Question
+
+Q: it is very difficult as i would be travelling in night and do not know if i loose any thing in active class
+
+
+A: edurekadevops@gmail.com
+
+
+Audience Question
+
+Q: When i execute the command docker-compose up then it says  "The PWD variable is not set".
+And it dosent make the data and html volume in the directory where i created my docker-compose.yml file
+
+A: echo $PWD
+
+http://ec2-15-206-174-166.ap-south-1.compute.amazonaws.com:8090/webapp/
+
+https://github.com/bhasker-manikyala/DevOpsDemos.git
+
+edurekadevops@gmail.com
+
+https://github.com/bhasker-manikyala/DevOpsDemos
+
+
+
+
+
